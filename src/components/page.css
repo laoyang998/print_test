@@ -1,0 +1,24 @@
+.page{
+    width: 297mm;
+    height: 209mm;
+    background-color: #fff;
+}
+
+.last-page{
+    width: 297mm;
+    height: 205mm;
+    background-color: rgb(185, 146, 146);
+}
+
+
+ .foot{
+    width: 297mm;
+    height: 1mm;
+}
+.page,.last-page table{
+    border-collapse: collapse;
+}
+.page,.last-page tr td{
+    border:1px solid black;
+} 
+
